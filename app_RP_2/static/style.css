@@ -1,0 +1,7 @@
+/* Paragraph styles */
+p {
+    font-size: 15px; /* Adjust font size as needed */
+    line-height: 1.6; /* Adjust line height for readability */
+    margin-bottom: 15px; /* Spacing between paragraphs */
+    color: #ff0000; /* Text color */
+}
